@@ -2,7 +2,7 @@ import { useState } from 'react'
 
 import './App.css'
 
-let next = 0;
+let next = 0; //variable
 
 function App() {
   const[name,setName] = useState('');
