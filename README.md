@@ -1,16 +1,45 @@
-# React + Vite
+# React Daily Practice 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains my **day-wise React practice**.  
+I use this repo to consistently learn and improve my React skills by building small apps and experimenting with concepts daily.
 
-Currently, two official plugins are available:
+## 📅 Practice Structure
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Each folder represents **one day of practice**, covering specific React topics.
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🧠 Topics Covered
 
-## Expanding the ESLint configuration
+- React Basics & JSX
+- Components & Props
+- State & Events
+- Hooks (useState, useEffect)
+- Conditional Rendering
+- Routing (React Router)
+- Forms & Controlled Components
+- API Integration (fetch/axios)
+- Mini Projects
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠 Tech Stack
+
+- React
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Vite / Create React App
+- Git & GitHub
+
+## 🎯 Goal
+
+- Build strong React fundamentals  
+- Maintain **daily GitHub consistency**
+- Create a solid practice log to showcase learning progress
+
+## 📌 Note
+
+This repository is for **learning and practice purposes**.  
+Each day may contain experiments, improvements, and refactoring.
+
+---
+
+⭐ If you find this useful, feel free to explore!
