@@ -10,8 +10,8 @@ function App() {
   "#FF9671", // peach
   "#00C9A7", // teal
   "#C34A36", // earthy red
-  "#2C73D2", // strong blue
-  "#B0A8B9" , // soft lavender
+  "#2C73D2", 
+  "#B0A8B9" , 
    "#FF0080",
   "#7928CA",
   "#FF4D4D",
