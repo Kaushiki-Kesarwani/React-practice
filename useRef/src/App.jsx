@@ -21,7 +21,7 @@ function App() {
   "#FF7A18",
   "#32D2AA",
   "#4776E6",
-  "#8E54E9"
+  
 ];
   const[color,setColor] = useState(colors[0]);
  const boxRef = useRef(document.body);
