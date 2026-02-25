@@ -32,7 +32,6 @@ function App() {
   `
   return (
     <>
-     <h1>i am component</h1> 
      <Heading>i am styled component</Heading>
      <Heading>i am styled component</Heading>
      <Heading>i am styled component</Heading>
