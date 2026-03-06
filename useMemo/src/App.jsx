@@ -20,6 +20,7 @@ const square = useMemo(()=>slowSquare(number),[number]);
 
   <button onClick={()=>setNumber(number+1)}>Change number</button>
 
+ <h2>Count : {count}</h2>
   <button onClick={()=>setCount(count+1)}>Increase count</button>
     </>
   )
