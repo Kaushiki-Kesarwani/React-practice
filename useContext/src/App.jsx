@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-      usecontext
+      usecontext Hook
     </>
   )
 }
